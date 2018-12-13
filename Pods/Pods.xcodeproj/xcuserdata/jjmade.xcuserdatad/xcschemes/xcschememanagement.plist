@@ -16,6 +16,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>HanekeSwift.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>Pods-Games.xcscheme</key>
 		<dict>
 			<key>isShown</key>

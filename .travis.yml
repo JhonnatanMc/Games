@@ -1,0 +1,7 @@
+language: swift
+os: osx 
+osx_image: xcode10.1
+script:
+  - xcodebuild clean test -scheme Games  -workspace Games.xcworkspace -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 8,OS=11.1'  -quiet build test
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
