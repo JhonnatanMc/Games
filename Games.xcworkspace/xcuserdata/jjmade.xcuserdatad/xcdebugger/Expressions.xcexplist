@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameCatalogViewController.tableView(_:cellForRowAt:):GameCatalogViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PriceFilterCell.textField(_:shouldChangeCharactersIn:replacementString:):PriceFilterCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "maxValue">
+            </PersistentString>
+            <PersistentString
+               value = "minValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterViewController.checkMinimumValueAllowed():FilterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(self.minimumValue)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterViewController.tableView(_:cellForRowAt:):FilterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "minimumValue">
+            </PersistentString>
+            <PersistentString
+               value = "maximumValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailGameViewController.completeInformation():DetailGameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.item">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FilterViewController.applyFilter(_:):FilterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.checkMinimumValueAllowed()">
+            </PersistentString>
+            <PersistentString
+               value = "maximumTyped">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameResultCell.init(style:reuseIdentifier:):GameResultCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

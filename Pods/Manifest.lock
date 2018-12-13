@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.6.0)
+  - HanekeSwift (0.10.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.6.0)
+  - HanekeSwift (from `LocalPods/HanekeSwift-feature-swift-3`)
+
+EXTERNAL SOURCES:
+  HanekeSwift:
+    :path: LocalPods/HanekeSwift-feature-swift-3
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  HanekeSwift: 31e54b389297920eefbf3ca3bbbcdd105c853f44
+
+PODFILE CHECKSUM: 19e4ba5db01e65e4b41edb5e566e923b331b38d9
+
+COCOAPODS: 1.4.0
